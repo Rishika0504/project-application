@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "504509298897",
+    "firebase_url": "https://swmapp-2ecc6-default-rtdb.firebaseio.com",
+    "project_id": "swmapp-2ecc6",
+    "storage_bucket": "swmapp-2ecc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504509298897:android:f9b1c7f3c2274940b1edf0",
+        "android_client_info": {
+          "package_name": "com.example.sustainablewastemanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504509298897-vuim4ppuan5h9mel9eh10vnadcq74rbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0UiMd3x4yW2DYNS_GPlxYHZXDrxm1DWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504509298897-vuim4ppuan5h9mel9eh10vnadcq74rbq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

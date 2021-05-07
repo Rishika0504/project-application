@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1037424479759",
+    "firebase_url": "https://sustainable-waste-manage-2e9c4-default-rtdb.firebaseio.com",
+    "project_id": "sustainable-waste-manage-2e9c4",
+    "storage_bucket": "sustainable-waste-manage-2e9c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037424479759:android:91150add2feae073865d7a",
+        "android_client_info": {
+          "package_name": "com.example.sustainablewastemanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037424479759-dr5m9tuciv0n6rci6psof3f2egf8d3cr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sustainablewastemanagement",
+            "certificate_hash": "3dfef82039dae7b12495c1453004acb3473af517"
+          }
+        },
+        {
+          "client_id": "1037424479759-8tpjg93uee84b4vft1bp8bjlqgbj8hot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyF5jBE2fVC67ZGm8o0dzN4sZzt-pgokw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037424479759-8tpjg93uee84b4vft1bp8bjlqgbj8hot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,38 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Sustainable Waste Management</string>
+    <string name="invalid_name">Please Enter Valid Name</string>
+    <string name="invalid_mobile">Please Enter a valid Number</string>
+    <string name="invalid_email">Please Enter Valid email</string>
+    <string name="invalid_password">Please enter valid password</string>
+    <string name="invalid_confirm_password">Password doesnot match</string>
+    <string name="title_activity_third">Map</string>
+
+    <string name="stubble_burning">
+        Stubble burning in northern India has long been a major cause of air pollution, but efforts to stop it fail every year
+        And its more dangerous this year with Covid-19 ravaging the country as pollution makes people more vulnerable to infection and slows their recovery. According to some estimates,
+        farmers in northern India burn about 23 million tonnes of paddy stubble every year
+
+    </string>
+    <string name="solution">
+        To avoid this stubble burning,we are here to collect your stubble and dispose
+it in a safe and environment friendly way.For this,you have to just give
+your details by filling the form and you can also track the location
+where the stubble is being disposed
+    </string>
+    <string name="address">
+        25 srt,baple street, haghway road, near to VJunction, Ameerpet, Hyderabad, Telangana 500016
+    </string>
+    <string name="sentence">
+        Have awareness about stubble burning by watching this video!!
+    </string>
+
+    <string name="amazon_web_services">Amazon Web Services</string>
+    <string name="organization_address">Organization Address</string>
+    <string name="motto_to_avoid_stubble_burning">Motto:To avoid Stubble Burning</string>
+    <string name="have_a_click">Have A Click!</string>
+    <string name="_25_srt_baple_street_haghway_road_near_to_vjunction_ameerpet_hyderabad_telangana_500016">25 srt,baple street, haghway road, near to VJunction, Ameerpet, Hyderabad, Telangana 500016</string>
+    <string name="click">Click!</string>
+    <string name="stubble_burning1">STUBBLE BURNING</string>
+    <string name="to_avoid_this_we_are_here_to_collect_to_your_stubble_and_dispose_it_in_a_more_environment_friendly_way_for_further_details_click">To avoid this we are here to collect to your stubble and dispose it in a more environment friendly way.For further details Click!!</string>
+
+</resources>
